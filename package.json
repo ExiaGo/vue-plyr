@@ -39,7 +39,7 @@
     "bili"
   ],
   "dependencies": {
-    "plyr": "git://github.com:ExiaGo/plyr"
+    "plyr": "git://github.com:ExiaGo/plyr.git"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
