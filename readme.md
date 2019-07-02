@@ -1,3 +1,8 @@
+# 修改说明
+> 原来这个库依赖的是 plyr 3.5.4，现在我修改依赖为 https://github.com/ExiaGo/plyr
+
+
+
 # vue-plyr
 >v5.1.2 - [Changelog](https://github.com/redxtech/vue-plyr/blob/master/changelog.md)
 
